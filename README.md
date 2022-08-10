@@ -1,3 +1,3 @@
-# My Personal Website => www.selimgunaydin.com
+# My Personal Website => [Selim Günaydın](https://www.selimgunaydin.com/)
 
-![selimgunaydin](./selimgunaydin.png)]
+![selimgunaydin](./selimgunaydin.png)
